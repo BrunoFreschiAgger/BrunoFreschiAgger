@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 <p align="left">
   📫 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
-你好👋
 
-台电脑的插图
+Nǐ hǎo👋
+Yī tái diànnǎo de zhìtú
 
-请用您的名字进行简要介绍，不要忘记您的领域。
-说说您目前正在做什么，是在工作还是在学习。
+Qǐng yòng nín de míngzì jìnxíng jiǎnyào jièshào, bùyào wàngjì nín de lǐngyù.
+Shuō shuō nín mùqián zhèngzài zuò shénme, shì zài gōngzuò háishì zài xuéxí.
 
-💡 语言：列出您掌握的语言。
+💡 Yǔyán: Liè chū nín zhǎngshòu de yǔyán.
 
-💼 工具：列出您使用的工作工具。
+💼 Gōngjù: Liè chū nín shǐyòng de gōngzuò gōngjù.
 
-📫 这是一条与您联系的消息：
+📫 Zhè shì yītiáo yǔ nín liánxì de xiāoxī:
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
