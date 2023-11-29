@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BrunoFreschiAgger/BrunoFreschiAgger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Nǐ hǎo👋
+### Nǐ hǎo👋
 Yī tái diànnǎo de zhìtú
 
 Qǐng yòng nín de míngzì jìnxíng jiǎnyào jièshào, bùyào wàngjì nín de lǐngyù.
