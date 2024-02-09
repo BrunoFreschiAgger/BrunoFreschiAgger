@@ -1,4 +1,7 @@
 ### Nǐ hǎo👋
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahrmiguel&label=Profile%20views&color=blueviolet&style=flat" alt="BreadcrumbsBrunoFreschiAgger" /> </p>
 <!--
 **BrunoFreschiAgger/BrunoFreschiAgger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
